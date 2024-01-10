@@ -1,0 +1,5 @@
+Git is distrubuted vesrion control System. Linux Torvald introduced the git after they tie break up with  the bitkkeeper in the year 1995.
+Git is free and open source tool.
+In git every client as copy of the file and has a complete history on it. Client pushes the code from working to STG then from to main branch. After from main branch code is oushed to central repository.
+We can use in git in offile source also beacuse it is having local repository.
+Git is having 3 stages. Working directory, Staging area, local repository.
