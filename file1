@@ -2,3 +2,4 @@ After pulling the code from git ac then we add deveploer writes the code and stg
 THen again the 1st user pull the code do the the chnges to the code and the add to the code to the staging area and moved to th local repo. From local repo then the code pushed to central rrepo.
 then the process repetes till completion of the task
 In branch the code will be pushed to main branch master.
+
